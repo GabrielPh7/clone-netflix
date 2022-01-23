@@ -48,12 +48,6 @@
 
 Projeto realizado para fixar aprendizado e aprender mais da biblioteca ReactJS, e das tecnologias HTML5, CSS3, JS. Clone da plataforma de streaming Netflix, feito através de instruções de Bonieky Lacerda.
 
-## :sparkles: Features
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
 ## :rocket: Technologies
 
 The following tools were used in this project:
@@ -74,10 +68,10 @@ $ git clone https://github.com/{{GabrielPh7}}/netflix
 $ cd netflix
 
 # Install dependencies
-$ yarn
+$ npm
 
 # Run the project
-$ yarn start
+$ npm start
 
 # The server will initialize in the <http://localhost:3000>
 ```

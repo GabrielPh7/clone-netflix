@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="public/CloneNetflix.gif" alt="Netflix" />
+  <img src="CloneNetflix.gif" alt="Netflix" />
 
 &#xa0;
 

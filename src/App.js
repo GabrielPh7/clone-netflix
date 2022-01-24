@@ -53,7 +53,14 @@ export default () => {
         ))}
       </section>
       <footer>
-        Feito por Gabriel Phillipe, seguindo instruções da B7Web
+        Feito por{" "}
+        <a
+          href="https://www.linkedin.com/in/gabriel-phillipe-10545b19b/"
+          target="_blank"
+        >
+          Gabriel Phillipe
+        </a>
+        , seguindo instruções da B7Web
         <br />
         Direitos de imagem para Netflix <br />
         Dados pegos do site Themoviedb.org

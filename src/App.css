@@ -31,3 +31,11 @@ footer {
   align-items: center;
   justify-content: center;
 }
+
+footer a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #fff;
+  font-style: italic;
+}
